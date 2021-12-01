@@ -3,7 +3,7 @@
 # Url same for everyone but data is different. 
 # There may be some args to add that would provide access
  
-dataFile = open('advent1_data.txt', 'r')
+dataFile = open('advent1/advent1_data.txt', 'r')
 
 dataIntList = []
 for line in dataFile.readlines():
